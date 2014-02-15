@@ -1,0 +1,31 @@
+{
+  "name": "extract-flags",
+  "description": "Extract command-line arguments from a list, removing matches from the original array",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/extract-flags"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/extract-flags/issues"
+  },
+  "homepage": "https://github.com/hughsk/extract-flags",
+  "keywords": [
+    "extract",
+    "command",
+    "line",
+    "arguments",
+    "parser",
+    "remove",
+    "modify"
+  ]
+}
