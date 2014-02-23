@@ -6,7 +6,7 @@ passing unexpected arguments back onto the original executable if not expected.
 
 Only supports a subset of what you'd get with
 [minimist](http://github.com/substack/minimist), so unless you're explicitly
-looking to modify the arguments array you're better of using that module.
+looking to modify the arguments array you're better off using that module.
 
 ## Usage ##
 
